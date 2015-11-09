@@ -3,7 +3,7 @@
     "description": "Strava V3 API PHP client with OAuth authentication",
      "keywords":    ["Strava","API","OAuth","PHP","StravaPHP"],
     "require": {
-        "educoder/pest": "1.0.0",
+        "educoder/pest": "dev-master",
         "league/oauth2-client": "0.8.1"
     },
     "license": "MIT",
